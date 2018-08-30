@@ -2,6 +2,10 @@
 """
 Class creation exercise based on biological sequences
 Implements a generic sequence class and specific subclasses for DNA/RNA/proteins
+
+ToDo:
+    - Add some usage examples?
+    - Alignment?
 """
 
 class NucleotideError(Exception):
