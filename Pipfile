@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pylint = "*"
 jupyter = "*"
+requests = "*"
+pandas = "*"
+biopython = "*"
 
 [dev-packages]
 
