@@ -10,6 +10,8 @@ requests = "*"
 pandas = "*"
 biopython = "*"
 matplotlib = "*"
+seaborn = "*"
+numpy = "*"
 
 [dev-packages]
 
